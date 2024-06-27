@@ -1,5 +1,6 @@
-PROJECT 0x04. C - More functions, more nested loops
-![190835047-aa8ab3e3-4e8a-4302-a215-8af869289b9e](https://github.com/vulturepremier/alx-low_level_programming/assets/132377205/2375d803-fde3-4555-90fa-21c568b40849)
+# PROJECT 0x04. C - More functions, more nested loops
+
+# 0x0Mohamed Ali
 
 Nested loop means a loop statement inside another loop statement. That is why nested loops are also called as “loop inside loop"
 
