@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry Point : A function to print
  *  the maximum factor of a large number;
@@ -9,6 +8,7 @@ int main(void)
 {
 	long int num = 612852475143;
 	int max;
+
 	for (max = 1; max < num; max++)
 	{
 		if (num % max == 0)
