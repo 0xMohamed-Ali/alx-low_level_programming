@@ -7,17 +7,16 @@
  */
 int _abs(int r)
 {
-	if(r < 0)
+	if (r < 0)
 	{
-	return (-1 * r);
+		return (-1 * r);
 	}
-	else if (r==0)
+	else if (r == 0)
 	{
-	return (0);
+		return (0);
 	}
 	else
 	{
-	return (r);
+		return (r);
 	}
-	
 }
