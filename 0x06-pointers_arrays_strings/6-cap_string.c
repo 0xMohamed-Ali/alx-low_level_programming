@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
- * cap_string - function to convert lowercase to uppercase;
- * @s:out string;
- * Return: address of the string;
+ * cap_string - capitalizes everey word of a string
+ * @s: string to modify
+ *
+ * Return: the resulting string
  */
 char *cap_string(char *s)
 {
